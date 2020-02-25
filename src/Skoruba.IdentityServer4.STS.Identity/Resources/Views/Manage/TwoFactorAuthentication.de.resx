@@ -139,7 +139,7 @@
     <value>Sie haben keine Wiederherstellungscodes übrig</value>
   </data>
   <data name="OneCode" xml:space="preserve">
-    <value>Sie haben ein Wiederherstellungscode übrig</value>
+    <value>Sie haben einen Wiederherstellungscode übrig</value>
   </data>
   <data name="RecoveryCodeLeft" xml:space="preserve">
     <value>Wiederherstellungscode übrig</value>
@@ -157,7 +157,7 @@
     <value>Zwei-Faktor-Authentifizierung (2FA)</value>
   </data>
   <data name="YouCanGenerateCodes" xml:space="preserve">
-    <value>You can generate a new set of Wiederherstellungscode</value>
+    <value>Sie können einen Wiederherstellungscode generieren</value>
   </data>
   <data name="YouHave" xml:space="preserve">
     <value>Sie haben</value>
